@@ -8,7 +8,6 @@ import lombok.extern.slf4j.Slf4j;
 
 /**
  * 카프카 프로듀서 셈플
- * @author jaecheor
  *
  */
 
