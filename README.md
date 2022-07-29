@@ -1,3 +1,7 @@
+`https://github.com/conduktor/kafka-stack-docker-compose`
+- yml파일 출처
+
+
 Kafka
 메세지 큐 (Message Queue)란
 프로세스(프로그램) 간에 데이터를 교환할 때 사용하는 통신 방법 중에 하나로 더 큰 개념으로는 
